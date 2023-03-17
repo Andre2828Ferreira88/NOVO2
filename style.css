@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+.fullcenter{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+#formulario{
+    display: flex;
+    width: 350px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
